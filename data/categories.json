@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Basic"
+  },
+  {
+    "id": "2",
+    "name": "Advanced"
+  },
+  {
+    "id": "3",
+    "name": "Most Popular"
+  },
+  {
+    "id": "4",
+    "name": "Premium"
+  },
+  {
+    "id": "5",
+    "name": "Upcoming"
+  },
+  {
+    "id": "6",
+    "name": "Resource"
+  }
+]

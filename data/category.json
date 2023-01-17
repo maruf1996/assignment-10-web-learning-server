@@ -1,0 +1,128 @@
+[
+  {
+    "category_id": "1",
+    "id": "01",
+    "name": "Basic Html",
+    "lesson": 6,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "1",
+    "id": "02",
+    "name": "Advance Html",
+    "lesson": 5,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "1",
+    "id": "03",
+    "name": "Css",
+    "lesson": 6,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "1",
+    "id": "04",
+    "name": "Bootstrap",
+    "lesson": 5,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "1",
+    "id": "05",
+    "name": "Tailwind",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "1",
+    "id": "06",
+    "name": "Git and Github",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "07",
+    "name": "Javascript",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "08",
+    "name": "React",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "09",
+    "name": "Firebase",
+    "lesson": 2,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "10",
+    "name": "Node JS",
+    "lesson": 2,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "11",
+    "name": "Next JS",
+    "lesson": 2,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "2",
+    "id": "12",
+    "name": "Express JS",
+    "lesson": 2,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "13",
+    "name": "Basic Html",
+    "lesson": 6,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "14",
+    "name": "Advanced Html",
+    "lesson": 5,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "15",
+    "name": "Css",
+    "lesson": 6,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "16",
+    "name": "Javascript",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "17",
+    "name": "Bootstrap",
+    "lesson": 5,
+    "level": "Beginner Friendly"
+  },
+  {
+    "category_id": "3",
+    "id": "18",
+    "name": "Tailwind",
+    "lesson": 4,
+    "level": "Beginner Friendly"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "details_id": "01",
+    "id": "01",
+    "name": "HTML Introduction",
+    "details": "HTML stands for Hypertext Markup Language, is the predominant markup language for web pages. It is used to create web pages using markup language. HTML is a combination of Hypertext and Markup language to create a structured web page content such as headings, paragraphs, lists, links, quotes, and other so many items.HTML support to display image files, objects file such as audio, video that you embedded in HTML to create an interactive web pages. Popular scripts languages JavaScript, as well as other scripting languages, are you can use it to create a dynamic user interactive web pages. The first version of HTML (HTML 1.0) was written by Tim Berners-Lee in 1993. Later many different HTML versions are released. However, the most widely used version HTML 4.01 was released in 2000, which became an official standard version of HTML."
+  },
+  {
+    "details_id": "01",
+    "id": "02",
+    "name": "HTML Tags",
+    "details": "All HTML tags are surrounding into opening <html> tag and closing </html> tag. HTML tags are two types, container tag, and non-container tag. Most of the HTML tags are container tags. They hold markup data. E.g. <p>This is paragraph</p> contains 'This is paragraph', which is called container tag. While few other non-container tags which are not hold anything. E.g. <br/> tag is non-container tag and used to break line. Also, the non-container tags are self-closing. All HTML tags are written in lower alphabetical. As well as, all non-container tag (also called empty tags) are always written in self-closing."
+  },
+  {
+    "details_id": "01",
+    "id": "03",
+    "name": "What are the tools requires to create an HTML?",
+    "details": "You don't need to use any special software to write an HTML markup. Only you need a text editor or HTML editor application. If you use HTML editor then it helps you to highlight HTML syntaxes to make readable for a human. Currently, Sublime Text 3, Notepad++, and Visual Studio Code HTML editor are widely used. They are WYSIWYG (what you see is what you get) and lightweight."
+  },
+  {
+    "details_id": "01",
+    "id": "04",
+    "name": "The HTML <head> Element",
+    "details": "HTML <head> element is a container tag and is placed before the <body> tag. The <head> element contains general information about the page, meta-information, style sheet URL and document type information. HTML <head> tag inside elements does not display n a body part in a web browser. HTML <head> tag contains following elements that describe the metadata: <title>, <meta>, <link>, <style>, <script>, and <base>."
+  },
+  {
+    "details_id": "01",
+    "id": "05",
+    "name": "HTML <title> Element",
+    "details": "The HTML <title> element is used to represents the title of the HTML document and it is required in all HTML documents. The <title> element is displayed in a browser tab. Only one <title> element allowable per document and it's required to defines within the <head> element."
+  },
+  {
+    "details_id": "01",
+    "id": "06",
+    "name": "HTML <meta> Element",
+    "details": "HTML <meta> element is used to provide structured meta-information about a web page. It contains a variety of information about the document. The <meta> tag is used to specify page description, keywords, and other important information. It helps to optimize the web page on the search engine. This process is known as search engine optimization (SEO)."
+  },
+  {
+    "details_id": "02",
+    "id": "07",
+    "name": "HTML Table",
+    "details": "The best way to split a page into different sections is to use HTML <table> tag. HTML Table section is top of (start with) <table> tag, and closed it right down at the </table> tag. Everything in between those two tags is inside the table, as you can see in following screenshot. Look at the following figure, <table> tag inside you need two more tag first is <tr> tag, which stands for table row. It is closed with the </tr> tag. And another one is <td> tag, which stands for table data. Every time you add a <tr> tag, when table will gain an extra row. In the table you just made, these is only one row section, so these is only one row. HTML <td> tag stands for table data (also say table column), and it places one cell in your table row. HTML table you also merge two or more column or two or more row merge using respectively colspan or rowspan attributes."
+  },
+  {
+    "details_id": "02",
+    "id": "08",
+    "name": "HTML Frame",
+    "details": "HTML Frame used to split the browser window in several individual frames that can contain a separate HTML web document. Frame is use to improve appearance and usability of a site. HTML document within frame include a other web pages link can be opened in the desired frame. Frame Provides technical sophisticated appearance to the web site. It facility to reduce downloading time and improves the usability of the website. Frames generally include navigation link, header or footers, which help user to find and navigate to required information. It separates content of website from navigation elements, which is useful for website maintenance and content modification. The web developer must be track of more HTML documents linked with main frame. It is difficult to print the entire page, which is developed using frame."
+  },
+  {
+    "details_id": "02",
+    "id": "09",
+    "name": "HTML Forms",
+    "details": "HTML Forms is most important future in HTML. HTML Forms use to get a users information. It is user interactive. HTML Forms is a information tools to get information from the web surfer, such as: name, email address, address, phone number etc. A form use to get information about user and information store that data into a web server."
+  },
+  {
+    "details_id": "02",
+    "id": "10",
+    "name": "HTML Layout",
+    "details": "HTML layout is advance topic to create a website layout using table. many websites achieved this HTML layout using tables. Div tag using to create a website layout its easy to manage in compare of table tag using create layout. But still table is good to create a layout structure. Create a layout using table is very popular method for design and develop. Layout structure contains Header part, Menu part, Contain part and Footer part involves."
+  },
+  {
+    "details_id": "02",
+    "id": "11",
+    "name": "HTML Global Attributes",
+    "details": "CSS ID attributes is use for assign a individual HTML element to identifier unique element id. Selected element using id you are assign any type style using CSS properties. The ID selector use the HTML elements, and it is defined with a hash('#') If you use CSS ID name in single elements than syntax first hash('#'), user defined ID name or property value. CSS class use to assign an elements and change individual selector class property value easy modify or change. CSS class syntax like dot('.') with class name. CSS Class allows you to set a particular style for any HTML elements with the same class. If you use class name in single elements than syntax write this like first dot('.'), user defined class name or property value. "
+  },
+  {
+    "details_id": "03",
+    "id": "12",
+    "name": "CSS Introduction",
+    "details": "CSS use for how to display HTML elements look and formatting are set using CSS properties. Using CSS properties you can change every single elements style can change as you like. CSS Style sheet create and include with web-page is very easily. Using CSS Style Sheet update web-page formatting and maintain consistency across multiple web-pages. CSS properties define either individually or group of element and best way to done while web-page is being created. Style Sheets like a 'blueprints' because its hold a group of style related properties and values."
+  },
+  {
+    "details_id": "03",
+    "id": "13",
+    "name": "How to Write CSS",
+    "details": "In this page you can learn how to write CSS style. You can define and implement CSS style 4 different way (In-line style, Internal style, external style sheet and @import), you must have to knowledge in which situation which type is better fit for you. So lets start, you can define and implement CSS style in following different ways. 1/ In-line CSS style 2/ Internal CSS Style 3/ External Style Sheet 4/ @import Style Sheet"
+  },
+  {
+    "details_id": "03",
+    "id": "14",
+    "name": "CSS class",
+    "details": "CSS class is a selector to assign class name either one or group of element and apply specific styles. Using class selector you can easily modify element styles. CSS class selector define using class attribute with value (user define class name). CSS class selector identify using ('.') dot sign concatenate with user define class name. CSS Class use for when you using JavaScript its identify of element using getElementByIClass() function."
+  },
+  {
+    "details_id": "03",
+    "id": "15",
+    "name": "CSS ID",
+    "details": "CSS ID assign to HTML element as a individual identifier. ID use to specific style apply for only that element by using CSS ID selector. CSS ID selector define using id attribute with value (user define id name). CSS ID selector identify using hash('#') concatenate with user define id name. CSS ID use for when you using JavaScript its identify of element using getElementByID() function."
+  },
+  {
+    "details_id": "03",
+    "id": "16",
+    "name": "CSS Text",
+    "details": "CSS TEXT properties are various type like text color, text-align, text-decoration, letter-spacing and many more properties. Using this properties you can change the text formatting style.CSS text-align property use to set the horizontal alignment of text. text-align possible value center, left, right, or justify. SS text-decoration property use to decorate the text. CSS text-decoration possible value underline, overline, blink, through etc. CSS text-transformation property use to text transform. CSS text-transformation possible value capitalize, lowercase and uppercase in a text. CSS text-transformation property value capitalize, it means first letter capital for all word."
+  },
+  {
+    "details_id": "03",
+    "id": "17",
+    "name": "CSS Font",
+    "details": "CSS Font properties are various type like font-family, font-size, font-style, font-weight properties and many more. Using CSS font properties you can change the font formatting style. Here are some CSS font properties listed."
+  },
+  {
+    "details_id": "04",
+    "id": "18",
+    "name": "What is Bootstrap?",
+    "details": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs"
+  },
+  {
+    "details_id": "04",
+    "id": "19",
+    "name": "Why Use Bootstrap?",
+    "details": "Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework Browser compatibility: Bootstrap 5 is compatible with all modern browsers (Chrome, Firefox, Edge, Safari, and Opera). Note that if you need support for IE11 and down, you must use either BS4 or BS3."
+  },
+  {
+    "details_id": "04",
+    "id": "20",
+    "name": "Bootstrap CDN",
+    "details": "If you don't want to download and host Bootstrap 5 yourself, you can include it from a CDN (Content Delivery Network). Many users already have downloaded Bootstrap 5 from jsDelivr when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time."
+  },
+  {
+    "details_id": "04",
+    "id": "21",
+    "name": "Create Your First Web Page With Bootstrap",
+    "details": "Bootstrap 5 uses HTML elements and CSS properties that require the HTML5 doctype. Always include the HTML5 doctype at the beginning of the page, along with the lang attribute and the correct title and character set. Bootstrap 5 is designed to be responsive to mobile devices. Mobile-first styles are part of the core framework. To ensure proper rendering and touch zooming, add the following <meta> tag inside the <head> element:"
+  },
+  {
+    "details_id": "04",
+    "id": "22",
+    "name": "Responsive meta tag",
+    "details": "Bootstrap is developed mobile first, a strategy in which we optimize code for mobile devices first and then scale up components as necessary using CSS media queries. To ensure proper rendering and touch zooming for all devices, add the responsive viewport meta tag to your <head>."
+  },
+  {
+    "details_id": "05",
+    "id": "23",
+    "name": "Introduction Tailwind CSS",
+    "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime."
+  },
+  {
+    "details_id": "05",
+    "id": "24",
+    "name": "Installation Tailwind",
+    "details": "Use the Play CDN to try Tailwind right in the browser without any build step. The Play CDN is designed for development purposes only, and is not the best choice for production. The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. The CLI is also available as a standalone executable if you want to use it without installing Node.js."
+  },
+  {
+    "details_id": "05",
+    "id": "25",
+    "name": "What to read next",
+    "details": "Get familiar with some of the core concepts that make Tailwind CSS different from writing traditional CSS."
+  },
+  {
+    "details_id": "05",
+    "id": "26",
+    "name": "Using to next Steps",
+    "details": "Using a utility-first workflow to build complex components from a constrained set of primitive utilities. Build fully responsive user interfaces that adapt to any screen size using responsive modifiers. Style elements in interactive states like hover, focus, and more using conditional modifiers. Optimize your site for dark mode directly in your HTML using the dark mode modifier. Manage duplication and keep your projects maintainable by creating reusable abstractions. Customize the framework to match your brand and extend it with your own custom styles."
+  },
+  {
+    "details_id": "06",
+    "id": "27",
+    "name": "What is Git",
+    "details": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."
+  },
+  {
+    "details_id": "06",
+    "id": "28",
+    "name": "What is Github",
+    "details": "GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration. GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line. GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books."
+  },
+  {
+    "details_id": "06",
+    "id": "29",
+    "name": "Exploring The GitHub",
+    "details": "From here, you can view the various branches that are being worked on, as well as when someone made a commit (this is kind of like “saving” a file). Depending on how a repository is set up, you also might be able to create your own branch and make your own commits there. And once you made some changes, you could submit that code back to a branch by making a pull request. A pull request is basically asking the person in charge of the branch to include your code. And it also helps that person see exactly what you’ve changed in the code."
+  },
+  {
+    "details_id": "06",
+    "id": "30",
+    "name": "How To Get Started With GitHub",
+    "details": "To get started with GitHub- Sign up for a free GitHub account Follow the GitHub Hello World guide to understand the most popular actions you’l likely want to take Read- WordPress Version Control 'What It Is and Best Solutions' Read- Git vs Github- What’s the Difference and How to Get Started with Both Save time, costs and maximize site performance with- Instant help from WordPress hosting experts, 24/7. Cloudflare Enterprise integration. Global audience reach with  data centers worldwide. Optimization with our built-in Application Performance Monitoring. All of that and much more, in one plan with no long-term contracts, assisted migrations, and a 30-day-money-back-guarantee."
+  },
+  {
+    "details_id": "07",
+    "id": "31",
+    "name": "JavaScript Introduction",
+    "details": "JavaScript, also known as ECMAScript is a client-side powerful web programming language used to add JavaScript functionality to a web page and create rich web applications. There is no need for an external program to run JavaScript. All you need is your web browser to interpret JavaScript code and display the results. The most significant advantages of JavaScript is its ability to produce the same result on all modern browsers. HTML is a great tool for displaying content. JavaScript is a great way of adding interactions. JavaScript is used to manipulate, automate and dynamically customize the web page data."
+  },
+  {
+    "details_id": "07",
+    "id": "32",
+    "name": "JavaScript Advantages",
+    "details": "he biggest advantages to a JavaScript having a ability to produce the same result on all modern browsers. Client-Side execution: No matter where you host JavaScript, Execute always on client environment to save a bandwidth and make execution process fast. User Interface Interactivity: JavaScript used to fill web page data dynamically such as drop-down list for a Country and State. Base on selected Country, State drop down list dynamically filled. Another one is Form validation, missing/incorrect fields you can alert to a users using alert box. Rapid Development: JavaScript syntax's are easy and flexible for the developers. JavaScript small bit of code you can test easily on Console Panel (inside Developer Tools) at a time browser interpret return output result. In-short easy language to get pick up in development. Browser Compatible: The biggest advantages to a JavaScript having a ability to support all modern browser and produce the same result.Make XMLHttpRequest() Object: XMLHttpRequest is special JavaScript object that was designed by Microsoft. XMLHttpRequest object call as a asynchronous HTTP request to the Server for transferring data both side without reloading the page."
+  },
+  {
+    "details_id": "07",
+    "id": "33",
+    "name": "JavaScript Disadvantages",
+    "details": "Biggest disadvantages to a JavaScript, code visible to everyone. Code Always Visible: The biggest disadvantages is code always visible to everyone anyone can view JavaScript code. Bit of Slow execute: No matter how much fast JavaScript interpret, JavaScript DOM (Document Object Model) is slow and will be a never fast rendering with HTML. Stop Render: JavaScript single error can stop to render with entire site. However browsers are extremely tolerant of JavaScript errors."
+  },
+  {
+    "details_id": "07",
+    "id": "34",
+    "name": "JavaScript Where to Put",
+    "details": "JavaScript Where to Put. HTML script element offer to write JavaScript between opening <script> tag and closing </script> tag. You can put JavaScript head or body section. Also you can write JavaScript external .js extension file. Before we going ahead, let's know JavaScript where to write. In JavaScript Introduction lesson we referred to a in-line JavaScript code. It's ok for a beginner but when the page content is largest It's hard to maintain JavaScript mixed with HTML. And page content become follow the worst coding standard."
+  },
+  {
+    "details_id": "08",
+    "id": "35",
+    "name": "What is React",
+    "details": "JReact makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Build encapsulated components that manage their own state, then compose them to make complex UIs. We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code."
+  },
+  {
+    "details_id": "08",
+    "id": "36",
+    "name": "Getting Started React",
+    "details": "React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started."
+  },
+  {
+    "details_id": "08",
+    "id": "37",
+    "name": "Create a New React App",
+    "details": "When starting a React project, a simple HTML page with script tags might still be the best option. It only takes a minute to set up! As your application grows, you might want to consider a more integrated setup. There are several JavaScript toolchains we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem."
+  },
+  {
+    "details_id": "08",
+    "id": "38",
+    "name": "Learn React",
+    "details": "People come to React from different backgrounds and with different learning styles. Whether you prefer a more theoretical or a practical approach, we hope you’ll find this section helpful. If you prefer to learn by doing, start with our practical tutorial. If you prefer to learn concepts step by step, start with our guide to main concepts. Like any unfamiliar technology, React does have a learning curve. With practice and some patience, you will get the hang of it."
+  },
+  {
+    "details_id": "09",
+    "id": "39",
+    "name": "What is Firebase",
+    "details": "Firebase is an all-in-one backend as a service provider (BaaS) that provides a database, authentication, and cloud storage among its many services. In this tutorial you’re going to learn how to use the Firebase Real-Time Database service in a React application. You’re going to build a simple team list application where users can add, delete, and edit team member information."
+  },
+  {
+    "details_id": "09",
+    "id": "40",
+    "name": "REQUIREMENTS",
+    "details": "The requirements for this tutorial are a working editor or IDE/terminal, and recent versions of node and npm. You should have learned about React in the first place. The Road to learn React is a free ebook that provides all the fundamentals of React. You will build a larger application in plain React, and transition from JavaScript ES5 to JavaScript ES6 and beyond. This tutorial will not dive into all the details taught in the ebook, so take the chance to grab your copy of it to learn those first."
+  },
+  {
+    "details_id": "10",
+    "id": "41",
+    "name": "Introduction to Node.js",
+    "details": "Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project! Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant. A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking and generally, libraries in Node.js are written using non-blocking paradigms, making blocking behavior the exception rather than the norm. When Node.js performs an I/O operation, like reading from the network, accessing a database or the filesystem, instead of blocking the thread and wasting CPU cycles waiting, Node.js will resume the operations when the response comes back. This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs."
+  },
+  {
+    "details_id": "10",
+    "id": "42",
+    "name": "How to install Node.js",
+    "details": "Node.js can be installed in different ways. This post highlights the most common and convenient ones. Official packages for all the major platforms are available at https://nodejs.dev/download/. One very convenient way to install Node.js is through a package manager. In this case, every operating system has its own. Other package managers for MacOS, Linux, and Windows are listed in https://nodejs.dev/download/package-manager/ nvm is a popular way to run Node.js. It allows you to easily switch the Node.js version, and install new versions to try and easily rollback if something breaks. It is also very useful to test your code with old Node.js versions."
+  },
+  {
+    "details_id": "11",
+    "id": "43",
+    "name": "What is Next.js?",
+    "details": "Next.js is a React framework that gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application."
+  },
+  {
+    "details_id": "11",
+    "id": "44",
+    "name": "Create a Next.js App",
+    "details": "To build a complete web application with React from scratch, there are many important details you need to consider: Code has to be bundled using a bundler like webpack and transformed using a compiler like Babel. You need to do production optimizations such as code splitting. You might want to statically pre-render some pages for performance and SEO. You might also want to use server-side rendering or client-side rendering. You might have to write some server-side code to connect your React app to your data store. A framework can solve these problems. But such a framework must have the right level of abstraction — otherwise it won’t be very useful. It also needs to have great 'Developer Experience', ensuring you and your team have an amazing experience while writing code."
+  },
+  {
+    "details_id": "12",
+    "id": "45",
+    "name": "What Is Express JS",
+    "details": "Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
+  },
+  {
+    "details_id": "12",
+    "id": "46",
+    "name": "Why Express JS?",
+    "details": "Express was created to make APIs and web applications with ease, It saves a lot of coding time almost by half and still makes web and mobile applications are efficient. Another reason for using express is that it is written in javascript as javascript is an easy language even if you don't have a previous knowledge of any language. Express lets so many new developers enter the field of web development. The reason behind creating an express framework for node js is: Time-efficient, Fast, Economical, Easy to learn, Asynchronous"
+  },
+  {
+    "details_id": "13",
+    "id": "47",
+    "name": "HTML Introduction",
+    "details": "HTML stands for Hypertext Markup Language, is the predominant markup language for web pages. It is used to create web pages using markup language. HTML is a combination of Hypertext and Markup language to create a structured web page content such as headings, paragraphs, lists, links, quotes, and other so many items.HTML support to display image files, objects file such as audio, video that you embedded in HTML to create an interactive web pages. Popular scripts languages JavaScript, as well as other scripting languages, are you can use it to create a dynamic user interactive web pages. The first version of HTML (HTML 1.0) was written by Tim Berners-Lee in 1993. Later many different HTML versions are released. However, the most widely used version HTML 4.01 was released in 2000, which became an official standard version of HTML."
+  },
+  {
+    "details_id": "13",
+    "id": "48",
+    "name": "HTML Tags",
+    "details": "All HTML tags are surrounding into opening <html> tag and closing </html> tag. HTML tags are two types, container tag, and non-container tag. Most of the HTML tags are container tags. They hold markup data. E.g. <p>This is paragraph</p> contains 'This is paragraph', which is called container tag. While few other non-container tags which are not hold anything. E.g. <br/> tag is non-container tag and used to break line. Also, the non-container tags are self-closing. All HTML tags are written in lower alphabetical. As well as, all non-container tag (also called empty tags) are always written in self-closing."
+  },
+  {
+    "details_id": "13",
+    "id": "49",
+    "name": "What are the tools requires to create an HTML?",
+    "details": "You don't need to use any special software to write an HTML markup. Only you need a text editor or HTML editor application. If you use HTML editor then it helps you to highlight HTML syntaxes to make readable for a human. Currently, Sublime Text 3, Notepad++, and Visual Studio Code HTML editor are widely used. They are WYSIWYG (what you see is what you get) and lightweight."
+  },
+  {
+    "details_id": "13",
+    "id": "50",
+    "name": "The HTML <head> Element",
+    "details": "HTML <head> element is a container tag and is placed before the <body> tag. The <head> element contains general information about the page, meta-information, style sheet URL and document type information. HTML <head> tag inside elements does not display n a body part in a web browser. HTML <head> tag contains following elements that describe the metadata: <title>, <meta>, <link>, <style>, <script>, and <base>."
+  },
+  {
+    "details_id": "13",
+    "id": "51",
+    "name": "HTML <title> Element",
+    "details": "The HTML <title> element is used to represents the title of the HTML document and it is required in all HTML documents. The <title> element is displayed in a browser tab. Only one <title> element allowable per document and it's required to defines within the <head> element."
+  },
+  {
+    "details_id": "13",
+    "id": "52",
+    "name": "HTML <meta> Element",
+    "details": "HTML <meta> element is used to provide structured meta-information about a web page. It contains a variety of information about the document. The <meta> tag is used to specify page description, keywords, and other important information. It helps to optimize the web page on the search engine. This process is known as search engine optimization (SEO)."
+  },
+  {
+    "details_id": "14",
+    "id": "53",
+    "name": "HTML Table",
+    "details": "The best way to split a page into different sections is to use HTML <table> tag. HTML Table section is top of (start with) <table> tag, and closed it right down at the </table> tag. Everything in between those two tags is inside the table, as you can see in following screenshot. Look at the following figure, <table> tag inside you need two more tag first is <tr> tag, which stands for table row. It is closed with the </tr> tag. And another one is <td> tag, which stands for table data. Every time you add a <tr> tag, when table will gain an extra row. In the table you just made, these is only one row section, so these is only one row. HTML <td> tag stands for table data (also say table column), and it places one cell in your table row. HTML table you also merge two or more column or two or more row merge using respectively colspan or rowspan attributes."
+  },
+  {
+    "details_id": "14",
+    "id": "54",
+    "name": "HTML Frame",
+    "details": "HTML Frame used to split the browser window in several individual frames that can contain a separate HTML web document. Frame is use to improve appearance and usability of a site. HTML document within frame include a other web pages link can be opened in the desired frame. Frame Provides technical sophisticated appearance to the web site. It facility to reduce downloading time and improves the usability of the website. Frames generally include navigation link, header or footers, which help user to find and navigate to required information. It separates content of website from navigation elements, which is useful for website maintenance and content modification. The web developer must be track of more HTML documents linked with main frame. It is difficult to print the entire page, which is developed using frame."
+  },
+  {
+    "details_id": "14",
+    "id": "55",
+    "name": "HTML Forms",
+    "details": "HTML Forms is most important future in HTML. HTML Forms use to get a users information. It is user interactive. HTML Forms is a information tools to get information from the web surfer, such as: name, email address, address, phone number etc. A form use to get information about user and information store that data into a web server."
+  },
+  {
+    "details_id": "14",
+    "id": "56",
+    "name": "HTML Layout",
+    "details": "HTML layout is advance topic to create a website layout using table. many websites achieved this HTML layout using tables. Div tag using to create a website layout its easy to manage in compare of table tag using create layout. But still table is good to create a layout structure. Create a layout using table is very popular method for design and develop. Layout structure contains Header part, Menu part, Contain part and Footer part involves."
+  },
+  {
+    "details_id": "14",
+    "id": "57",
+    "name": "HTML Global Attributes",
+    "details": "CSS ID attributes is use for assign a individual HTML element to identifier unique element id. Selected element using id you are assign any type style using CSS properties. The ID selector use the HTML elements, and it is defined with a hash('#') If you use CSS ID name in single elements than syntax first hash('#'), user defined ID name or property value. CSS class use to assign an elements and change individual selector class property value easy modify or change. CSS class syntax like dot('.') with class name. CSS Class allows you to set a particular style for any HTML elements with the same class. If you use class name in single elements than syntax write this like first dot('.'), user defined class name or property value. "
+  },
+  {
+    "details_id": "15",
+    "id": "58",
+    "name": "CSS Introduction",
+    "details": "CSS use for how to display HTML elements look and formatting are set using CSS properties. Using CSS properties you can change every single elements style can change as you like. CSS Style sheet create and include with web-page is very easily. Using CSS Style Sheet update web-page formatting and maintain consistency across multiple web-pages. CSS properties define either individually or group of element and best way to done while web-page is being created. Style Sheets like a 'blueprints' because its hold a group of style related properties and values."
+  },
+  {
+    "details_id": "15",
+    "id": "59",
+    "name": "How to Write CSS",
+    "details": "In this page you can learn how to write CSS style. You can define and implement CSS style 4 different way (In-line style, Internal style, external style sheet and @import), you must have to knowledge in which situation which type is better fit for you. So lets start, you can define and implement CSS style in following different ways. 1/ In-line CSS style 2/ Internal CSS Style 3/ External Style Sheet 4/ @import Style Sheet"
+  },
+  {
+    "details_id": "15",
+    "id": "60",
+    "name": "CSS class",
+    "details": "CSS class is a selector to assign class name either one or group of element and apply specific styles. Using class selector you can easily modify element styles. CSS class selector define using class attribute with value (user define class name). CSS class selector identify using ('.') dot sign concatenate with user define class name. CSS Class use for when you using JavaScript its identify of element using getElementByIClass() function."
+  },
+  {
+    "details_id": "15",
+    "id": "61",
+    "name": "CSS ID",
+    "details": "CSS ID assign to HTML element as a individual identifier. ID use to specific style apply for only that element by using CSS ID selector. CSS ID selector define using id attribute with value (user define id name). CSS ID selector identify using hash('#') concatenate with user define id name. CSS ID use for when you using JavaScript its identify of element using getElementByID() function."
+  },
+  {
+    "details_id": "15",
+    "id": "62",
+    "name": "CSS Text",
+    "details": "CSS TEXT properties are various type like text color, text-align, text-decoration, letter-spacing and many more properties. Using this properties you can change the text formatting style.CSS text-align property use to set the horizontal alignment of text. text-align possible value center, left, right, or justify. SS text-decoration property use to decorate the text. CSS text-decoration possible value underline, overline, blink, through etc. CSS text-transformation property use to text transform. CSS text-transformation possible value capitalize, lowercase and uppercase in a text. CSS text-transformation property value capitalize, it means first letter capital for all word."
+  },
+  {
+    "details_id": "15",
+    "id": "63",
+    "name": "CSS Font",
+    "details": "CSS Font properties are various type like font-family, font-size, font-style, font-weight properties and many more. Using CSS font properties you can change the font formatting style. Here are some CSS font properties listed."
+  },
+  {
+    "details_id": "16",
+    "id": "64",
+    "name": "JavaScript Introduction",
+    "details": "JavaScript, also known as ECMAScript is a client-side powerful web programming language used to add JavaScript functionality to a web page and create rich web applications. There is no need for an external program to run JavaScript. All you need is your web browser to interpret JavaScript code and display the results. The most significant advantages of JavaScript is its ability to produce the same result on all modern browsers. HTML is a great tool for displaying content. JavaScript is a great way of adding interactions. JavaScript is used to manipulate, automate and dynamically customize the web page data."
+  },
+  {
+    "details_id": "16",
+    "id": "65",
+    "name": "JavaScript Advantages",
+    "details": "he biggest advantages to a JavaScript having a ability to produce the same result on all modern browsers. Client-Side execution: No matter where you host JavaScript, Execute always on client environment to save a bandwidth and make execution process fast. User Interface Interactivity: JavaScript used to fill web page data dynamically such as drop-down list for a Country and State. Base on selected Country, State drop down list dynamically filled. Another one is Form validation, missing/incorrect fields you can alert to a users using alert box. Rapid Development: JavaScript syntax's are easy and flexible for the developers. JavaScript small bit of code you can test easily on Console Panel (inside Developer Tools) at a time browser interpret return output result. In-short easy language to get pick up in development. Browser Compatible: The biggest advantages to a JavaScript having a ability to support all modern browser and produce the same result.Make XMLHttpRequest() Object: XMLHttpRequest is special JavaScript object that was designed by Microsoft. XMLHttpRequest object call as a asynchronous HTTP request to the Server for transferring data both side without reloading the page."
+  },
+  {
+    "details_id": "16",
+    "id": "66",
+    "name": "JavaScript Disadvantages",
+    "details": "Biggest disadvantages to a JavaScript, code visible to everyone. Code Always Visible: The biggest disadvantages is code always visible to everyone anyone can view JavaScript code. Bit of Slow execute: No matter how much fast JavaScript interpret, JavaScript DOM (Document Object Model) is slow and will be a never fast rendering with HTML. Stop Render: JavaScript single error can stop to render with entire site. However browsers are extremely tolerant of JavaScript errors."
+  },
+  {
+    "details_id": "16",
+    "id": "67",
+    "name": "JavaScript Where to Put",
+    "details": "JavaScript Where to Put. HTML script element offer to write JavaScript between opening <script> tag and closing </script> tag. You can put JavaScript head or body section. Also you can write JavaScript external .js extension file. Before we going ahead, let's know JavaScript where to write. In JavaScript Introduction lesson we referred to a in-line JavaScript code. It's ok for a beginner but when the page content is largest It's hard to maintain JavaScript mixed with HTML. And page content become follow the worst coding standard."
+  },
+  {
+    "details_id": "17",
+    "id": "68",
+    "name": "What is Bootstrap?",
+    "details": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs"
+  },
+  {
+    "details_id": "17",
+    "id": "69",
+    "name": "Why Use Bootstrap?",
+    "details": "Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework Browser compatibility: Bootstrap 5 is compatible with all modern browsers (Chrome, Firefox, Edge, Safari, and Opera). Note that if you need support for IE11 and down, you must use either BS4 or BS3."
+  },
+  {
+    "details_id": "17",
+    "id": "70",
+    "name": "Bootstrap CDN",
+    "details": "If you don't want to download and host Bootstrap 5 yourself, you can include it from a CDN (Content Delivery Network). Many users already have downloaded Bootstrap 5 from jsDelivr when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time."
+  },
+  {
+    "details_id": "17",
+    "id": "71",
+    "name": "Create Your First Web Page With Bootstrap",
+    "details": "Bootstrap 5 uses HTML elements and CSS properties that require the HTML5 doctype. Always include the HTML5 doctype at the beginning of the page, along with the lang attribute and the correct title and character set. Bootstrap 5 is designed to be responsive to mobile devices. Mobile-first styles are part of the core framework. To ensure proper rendering and touch zooming, add the following <meta> tag inside the <head> element:"
+  },
+  {
+    "details_id": "17",
+    "id": "72",
+    "name": "Responsive meta tag",
+    "details": "Bootstrap is developed mobile first, a strategy in which we optimize code for mobile devices first and then scale up components as necessary using CSS media queries. To ensure proper rendering and touch zooming for all devices, add the responsive viewport meta tag to your <head>."
+  },
+  {
+    "details_id": "18",
+    "id": "73",
+    "name": "Introduction Tailwind CSS",
+    "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime."
+  },
+  {
+    "details_id": "18",
+    "id": "74",
+    "name": "Installation Tailwind",
+    "details": "Use the Play CDN to try Tailwind right in the browser without any build step. The Play CDN is designed for development purposes only, and is not the best choice for production. The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. The CLI is also available as a standalone executable if you want to use it without installing Node.js."
+  },
+  {
+    "details_id": "18",
+    "id": "75",
+    "name": "What to read next",
+    "details": "Get familiar with some of the core concepts that make Tailwind CSS different from writing traditional CSS."
+  },
+  {
+    "details_id": "18",
+    "id": "76",
+    "name": "Using to next Steps",
+    "details": "Using a utility-first workflow to build complex components from a constrained set of primitive utilities. Build fully responsive user interfaces that adapt to any screen size using responsive modifiers. Style elements in interactive states like hover, focus, and more using conditional modifiers. Optimize your site for dark mode directly in your HTML using the dark mode modifier. Manage duplication and keep your projects maintainable by creating reusable abstractions. Customize the framework to match your brand and extend it with your own custom styles."
+  }
+]
